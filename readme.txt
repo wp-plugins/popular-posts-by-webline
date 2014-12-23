@@ -2,7 +2,7 @@
 Contributors: weblineindia
 Tags: popular posts, posts, popular, popular content, popular data 
 Requires at least: 3.2
-Tested up to: 4.0.1
+Tested up to: 4.1
 License: GPL
 Stable tag: 1.0.1
 
