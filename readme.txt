@@ -1,5 +1,5 @@
 === Popular Posts by Webline ===
-Contributors: Weblineindia
+Contributors: weblineindia
 Tags: popular posts, posts, popular, popular content, popular posts widget, popular data, most visited posts 
 Requires at least: 3.2
 Tested up to: 4.2.2
