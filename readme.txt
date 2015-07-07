@@ -38,7 +38,7 @@ Popular Posts will list all the posts as per the filters applied from the admin 
 3. Frontend widget view with Sort By Post Views Count
 4. Frontend widget view without Featured Image
 5. Frontend widget view without Featured Image and Post Meta
-6. Frontend widget view without Featured Image,Post Meta and Excerpt
+6. Frontend widget view without Featured Image and Excerpt
 7. Frontend widget view with only Post Titles
 
 == Changelog ==
